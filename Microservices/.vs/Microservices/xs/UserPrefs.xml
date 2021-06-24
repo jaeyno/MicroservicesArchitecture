@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{625B4BC0-7FB9-4E4F-B706-2E5B9A644E83}|Default">
-  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.API FirstBuild="True" />
+﻿<Properties StartupConfiguration="{E8C6BFF5-6B2B-4470-BAA4-DF29E9111B9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Microservices FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.API/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog.API/Entities/Product.cs">
     <Files>
-      <File FileName="Catalog.API/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Catalog.API/Entities/Product.cs" Line="6" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +12,10 @@
             <Node name="Services" expanded="True">
               <Node name="Catalog" expanded="True">
                 <Node name="Catalog.API" expanded="True">
-                  <Node name="Properties" expanded="True" selected="True" />
+                  <Node name="Dependencies" expanded="True" />
+                  <Node name="Entities" expanded="True">
+                    <Node name="Product.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
