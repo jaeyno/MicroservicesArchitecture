@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wWpZpY1+ZAvFeqcQDgArOgQw+uZ9RWgCDjB08P2Kh/13aPOu1arFniOU/n+nkdY01Jy/S7MPAsjfA4Z3MsoCfw==",
+  "dgSpecHash": "pBokFTBtc94YQmRMD392nO27Ji2Pe0IFNX5dM2dsnYWPLhD0sKPSopQMC8xjcFEQMBh9ztnMsN+VLJUHDPEoBA==",
   "success": true,
   "projectFilePath": "/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,8 @@
     "/Users/jaeno/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
     "/Users/jaeno/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/jaeno/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "/Users/jaeno/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    "/Users/jaeno/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/jaeno/.nuget/packages/visualstudio.gitignore/1.0.1/visualstudio.gitignore.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

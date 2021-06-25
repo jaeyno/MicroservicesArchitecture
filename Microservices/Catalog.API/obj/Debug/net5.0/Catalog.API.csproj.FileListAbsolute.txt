@@ -26,3 +26,15 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/obj/Debug/net5.0/ref/Catalog.API.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/obj/Debug/net5.0/Catalog.API.pdb
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/obj/Debug/net5.0/Catalog.API.genruntimeconfig.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/DnsClient.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/SharpCompress.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Catalog.API/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
