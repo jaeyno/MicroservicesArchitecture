@@ -28,8 +28,15 @@ services:
       context: .
       dockerfile: Basket.API/Dockerfile
 
+  discount.api:
+    image: ${DOCKER_REGISTRY-}discount
+    build:
+      context: .
+      dockerfile: Discount.API/Dockerfile
+
 volumes:
   mongo_data:
   portainer_data:
   postgres_data:
   pgadmin_data:
+
