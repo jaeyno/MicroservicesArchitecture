@@ -6,9 +6,13 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'Custom' " />
   <ItemGroup>
-    <PackageReference Include="Grpc.AspNetCore" Version="2.34.0" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.38.0" />
     <PackageReference Include="Dapper" Version="2.0.90" />
     <PackageReference Include="Npgsql" Version="5.0.7" />
+    <PackageReference Include="Grpc.Tools" Version="2.38.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
@@ -18,16 +22,9 @@
     <Folder Include="Protos\" />
     <Folder Include="Services\" />
   </ItemGroup>
-  <ItemGroup>
-    <None Remove="Protos\discount.proto" />
-  </ItemGroup>
+
   <ItemGroup>
     <Protobuf Include="Protos\discount.proto" GrpcServices="Server">
-      <Access></Access>
-      <ProtoCompile></ProtoCompile>
-      <CompileOutputs></CompileOutputs>
-      <OutputDir></OutputDir>
-      <Generator></Generator>
     </Protobuf>
   </ItemGroup>
 </Project>
