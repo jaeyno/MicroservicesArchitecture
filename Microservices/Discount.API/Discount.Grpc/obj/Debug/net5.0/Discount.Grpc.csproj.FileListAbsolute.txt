@@ -30,3 +30,5 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.genruntimeconfig.cache
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/Dapper.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/Npgsql.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/AutoMapper.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
