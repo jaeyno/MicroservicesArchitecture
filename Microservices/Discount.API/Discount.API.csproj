@@ -18,4 +18,40 @@
     <Folder Include="Repositories\" />
     <Folder Include="Extensions\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Discount.Grpc\Entities\Coupon.cs" />
+    <Compile Remove="Discount.Grpc\Startup.cs" />
+    <Compile Remove="Discount.Grpc\Program.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.AssemblyInfo.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\Protos\GreetGrpc.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\Protos\Greet.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\Protos\DiscountGrpc.cs" />
+    <Compile Remove="Discount.Grpc\obj\Debug\net5.0\Protos\Discount.cs" />
+    <Compile Remove="Discount.Grpc\Mapper\DiscoutProfile.cs" />
+    <Compile Remove="Discount.Grpc\Repositories\IDiscountRepository.cs" />
+    <Compile Remove="Discount.Grpc\Repositories\DiscountRepository.cs" />
+    <Compile Remove="Discount.Grpc\Extensions\HostExtensions.cs" />
+    <Compile Remove="Discount.Grpc\Services\DiscountService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Discount.Grpc\bin\Debug\net5.0\Discount.Grpc.pdb" />
+    <None Remove="Discount.Grpc\obj\Discount.Grpc.csproj.nuget.g.props" />
+    <None Remove="Discount.Grpc\obj\project.nuget.cache" />
+    <None Remove="Discount.Grpc\obj\Discount.Grpc.csproj.nuget.g.targets" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\1255d1a520d30ea4_greet.protodep" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\1255d1a520d30ea4_discount.protodep" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.CopyComplete" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csproj.FileListAbsolute.txt" />
+    <None Remove="Discount.Grpc\Protos\discount.proto" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.assets.cache" />
+    <None Remove="Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.csprojAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Discount.Grpc\obj\Discount.Grpc.csproj.nuget.dgspec.json" />
+    <Content Remove="Discount.Grpc\obj\project.assets.json" />
+    <Content Remove="Discount.Grpc\Properties\launchSettings.json" />
+  </ItemGroup>
 </Project>

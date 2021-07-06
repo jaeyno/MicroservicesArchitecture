@@ -1,5 +1,3 @@
-/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/appsettings.Development.json
-/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/appsettings.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.API.deps.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.API.runtimeconfig.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.API.runtimeconfig.dev.json

@@ -1,5 +1,3 @@
-/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/appsettings.Development.json
-/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/appsettings.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.deps.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.runtimeconfig.json
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.runtimeconfig.dev.json
