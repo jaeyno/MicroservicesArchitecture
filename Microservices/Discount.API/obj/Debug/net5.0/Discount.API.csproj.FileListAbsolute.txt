@@ -26,3 +26,6 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/obj/Debug/net5.0/ref/Discount.API.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/obj/Debug/net5.0/Discount.API.pdb
 /Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/obj/Debug/net5.0/Discount.API.genruntimeconfig.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.deps.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.runtimeconfig.dev.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/Microservices/Discount.API/bin/Debug/net5.0/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.runtimeconfig.json
