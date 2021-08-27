@@ -13,5 +13,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Entities\" />
     <Folder Include="Data\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 </Project>
