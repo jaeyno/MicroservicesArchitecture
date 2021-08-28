@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Services\Cat
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{D0FAA48E-B35B-416D-8527-ED37F9DB359C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3519E7E6-F4F5-4907-B699-0DD0385FBF2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{C410A178-7664-4A12-8038-C5E52B63D1BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{26BB2BBF-9602-41A3-B7B5-EA5106452143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.API", "Services\Basket\Basket.API\Basket.API.csproj", "{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,10 @@ Global
 		{D0FAA48E-B35B-416D-8527-ED37F9DB359C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0FAA48E-B35B-416D-8527-ED37F9DB359C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0FAA48E-B35B-416D-8527-ED37F9DB359C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -29,5 +41,9 @@ Global
 		SolutionGuid = {028BD8FF-9EB3-4444-9D1E-EC13570958D4}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{C410A178-7664-4A12-8038-C5E52B63D1BE} = {3519E7E6-F4F5-4907-B699-0DD0385FBF2B}
+		{BF79000D-25D6-4D7E-BA67-4DC1DFBBE235} = {C410A178-7664-4A12-8038-C5E52B63D1BE}
+		{26BB2BBF-9602-41A3-B7B5-EA5106452143} = {3519E7E6-F4F5-4907-B699-0DD0385FBF2B}
+		{ACE15427-19BA-42CB-9AAC-E07DE25B4EF1} = {26BB2BBF-9602-41A3-B7B5-EA5106452143}
 	EndGlobalSection
 EndGlobal
