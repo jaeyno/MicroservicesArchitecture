@@ -16,5 +16,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Entities\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
 </Project>
