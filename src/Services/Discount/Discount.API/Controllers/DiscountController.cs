@@ -1,12 +1,12 @@
 ﻿using System.Net;
 using System.Threading.Tasks;
-using Discount.API.Entities;
-using Discount.API.Repositories;
+using Discount.Grpc.Entities;
+using Discount.Grpc.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace Discount.API.Controllers
+namespace Discount.Grpc.Controllers
 {
     [Route("api/v1/[controller]")]
     public class DiscountController : Controller
