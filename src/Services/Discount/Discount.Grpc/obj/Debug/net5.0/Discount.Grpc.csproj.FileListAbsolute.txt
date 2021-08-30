@@ -6,6 +6,7 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/ref/Discount.Grpc.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Discount.Grpc.pdb
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Dapper.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Google.Protobuf.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Grpc.AspNetCore.Server.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Grpc.AspNetCore.Server.ClientFactory.dll
@@ -13,7 +14,7 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Grpc.Net.Client.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Grpc.Net.ClientFactory.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Grpc.Net.Common.dll
-/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.csprojAssemblyReference.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Npgsql.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.AssemblyInfoInputs.cache
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.AssemblyInfo.cs
@@ -28,5 +29,3 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/ref/Discount.Grpc.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.pdb
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/obj/Debug/net5.0/Discount.Grpc.genruntimeconfig.cache
-/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Dapper.dll
-/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.Grpc/bin/Debug/net5.0/Npgsql.dll
