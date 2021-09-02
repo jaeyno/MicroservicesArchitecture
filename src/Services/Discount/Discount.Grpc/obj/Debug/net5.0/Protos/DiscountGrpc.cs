@@ -12,6 +12,7 @@ namespace Discount.Grpc.Protos {
   {
     static readonly string __ServiceName = "DiscountProtoService";
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static void __Helper_SerializeMessage(global::Google.Protobuf.IMessage message, grpc::SerializationContext context)
     {
       #if !GRPC_DISABLE_PROTOBUF_BUFFER_SERIALIZATION
@@ -26,11 +27,13 @@ namespace Discount.Grpc.Protos {
       context.Complete(global::Google.Protobuf.MessageExtensions.ToByteArray(message));
     }
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static class __Helper_MessageCache<T>
     {
       public static readonly bool IsBufferMessage = global::System.Reflection.IntrospectionExtensions.GetTypeInfo(typeof(global::Google.Protobuf.IBufferMessage)).IsAssignableFrom(typeof(T));
     }
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static T __Helper_DeserializeMessage<T>(grpc::DeserializationContext context, global::Google.Protobuf.MessageParser<T> parser) where T : global::Google.Protobuf.IMessage<T>
     {
       #if !GRPC_DISABLE_PROTOBUF_BUFFER_SERIALIZATION
@@ -42,13 +45,20 @@ namespace Discount.Grpc.Protos {
       return parser.ParseFrom(context.PayloadAsNewBuffer());
     }
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.GetDiscountRequest> __Marshaller_GetDiscountRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.GetDiscountRequest.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.CouponModel> __Marshaller_CouponModel = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.CouponModel.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.CreateDiscountRequest> __Marshaller_CreateDiscountRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.CreateDiscountRequest.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.UpdateDiscountRequest> __Marshaller_UpdateDiscountRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.UpdateDiscountRequest.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.DeleteDiscountRequest> __Marshaller_DeleteDiscountRequest = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.DeleteDiscountRequest.Parser));
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Marshaller<global::Discount.Grpc.Protos.DeleteDiscountResponse> __Marshaller_DeleteDiscountResponse = grpc::Marshallers.Create(__Helper_SerializeMessage, context => __Helper_DeserializeMessage(context, global::Discount.Grpc.Protos.DeleteDiscountResponse.Parser));
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::Discount.Grpc.Protos.GetDiscountRequest, global::Discount.Grpc.Protos.CouponModel> __Method_GetDiscount = new grpc::Method<global::Discount.Grpc.Protos.GetDiscountRequest, global::Discount.Grpc.Protos.CouponModel>(
         grpc::MethodType.Unary,
         __ServiceName,
@@ -56,6 +66,7 @@ namespace Discount.Grpc.Protos {
         __Marshaller_GetDiscountRequest,
         __Marshaller_CouponModel);
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::Discount.Grpc.Protos.CreateDiscountRequest, global::Discount.Grpc.Protos.CouponModel> __Method_CreateDiscount = new grpc::Method<global::Discount.Grpc.Protos.CreateDiscountRequest, global::Discount.Grpc.Protos.CouponModel>(
         grpc::MethodType.Unary,
         __ServiceName,
@@ -63,6 +74,7 @@ namespace Discount.Grpc.Protos {
         __Marshaller_CreateDiscountRequest,
         __Marshaller_CouponModel);
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::Discount.Grpc.Protos.UpdateDiscountRequest, global::Discount.Grpc.Protos.CouponModel> __Method_UpdateDiscount = new grpc::Method<global::Discount.Grpc.Protos.UpdateDiscountRequest, global::Discount.Grpc.Protos.CouponModel>(
         grpc::MethodType.Unary,
         __ServiceName,
@@ -70,6 +82,7 @@ namespace Discount.Grpc.Protos {
         __Marshaller_UpdateDiscountRequest,
         __Marshaller_CouponModel);
 
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     static readonly grpc::Method<global::Discount.Grpc.Protos.DeleteDiscountRequest, global::Discount.Grpc.Protos.DeleteDiscountResponse> __Method_DeleteDiscount = new grpc::Method<global::Discount.Grpc.Protos.DeleteDiscountRequest, global::Discount.Grpc.Protos.DeleteDiscountResponse>(
         grpc::MethodType.Unary,
         __ServiceName,
@@ -87,21 +100,25 @@ namespace Discount.Grpc.Protos {
     [grpc::BindServiceMethod(typeof(DiscountProtoService), "BindService")]
     public abstract partial class DiscountProtoServiceBase
     {
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.Protos.CouponModel> GetDiscount(global::Discount.Grpc.Protos.GetDiscountRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.Protos.CouponModel> CreateDiscount(global::Discount.Grpc.Protos.CreateDiscountRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.Protos.CouponModel> UpdateDiscount(global::Discount.Grpc.Protos.UpdateDiscountRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
       }
 
+      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.Protos.DeleteDiscountResponse> DeleteDiscount(global::Discount.Grpc.Protos.DeleteDiscountRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
@@ -111,6 +128,7 @@ namespace Discount.Grpc.Protos {
 
     /// <summary>Creates service definition that can be registered with a server</summary>
     /// <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     public static grpc::ServerServiceDefinition BindService(DiscountProtoServiceBase serviceImpl)
     {
       return grpc::ServerServiceDefinition.CreateBuilder()
@@ -124,6 +142,7 @@ namespace Discount.Grpc.Protos {
     /// Note: this method is part of an experimental API that can change or be removed without any prior notice.</summary>
     /// <param name="serviceBinder">Service methods will be bound by calling <c>AddMethod</c> on this object.</param>
     /// <param name="serviceImpl">An object implementing the server-side handling logic.</param>
+    [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
     public static void BindService(grpc::ServiceBinderBase serviceBinder, DiscountProtoServiceBase serviceImpl)
     {
       serviceBinder.AddMethod(__Method_GetDiscount, serviceImpl == null ? null : new grpc::UnaryServerMethod<global::Discount.Grpc.Protos.GetDiscountRequest, global::Discount.Grpc.Protos.CouponModel>(serviceImpl.GetDiscount));

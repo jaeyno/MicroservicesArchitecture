@@ -12,7 +12,6 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.csprojAssemblyReference.cache
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.AssemblyInfoInputs.cache
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.AssemblyInfo.cs
@@ -28,3 +27,4 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/ref/Discount.API.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.pdb
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.genruntimeconfig.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Discount/Discount.API/obj/Debug/net5.0/Discount.API.csprojAssemblyReference.cache
