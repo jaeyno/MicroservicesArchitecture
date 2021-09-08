@@ -15,8 +15,13 @@
     <Folder Include="Contracts\Infrastructure\" />
     <Folder Include="Models\" />
     <Folder Include="Mappings\" />
+    <Folder Include="Features\Orders\" />
+    <Folder Include="Features\Orders\Commands\" />
+    <Folder Include="Features\Orders\Queries\" />
+    <Folder Include="Features\Orders\Queries\GetOrdersList\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
   </ItemGroup>
 </Project>
