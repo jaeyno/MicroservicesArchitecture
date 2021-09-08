@@ -1,0 +1,15 @@
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.deps.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/ref/Ordering.Application.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Application.pdb
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csprojAssemblyReference.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfoInputs.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.AssemblyInfo.cs
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CoreCompileInputs.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.csproj.CopyComplete
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/ref/Ordering.Application.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Application/obj/Debug/net5.0/Ordering.Application.pdb

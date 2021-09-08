@@ -20,6 +20,7 @@
     <Folder Include="Features\Orders\Queries\" />
     <Folder Include="Features\Orders\Queries\GetOrdersList\" />
     <Folder Include="Features\Orders\Commands\CheckoutOrder\" />
+    <Folder Include="Features\Orders\Commands\UpdateOrder\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="10.1.1" />

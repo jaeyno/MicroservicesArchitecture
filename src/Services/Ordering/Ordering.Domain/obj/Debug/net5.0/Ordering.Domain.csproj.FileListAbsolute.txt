@@ -1,0 +1,12 @@
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.deps.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/ref/Ordering.Domain.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/bin/Debug/net5.0/Ordering.Domain.pdb
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csprojAssemblyReference.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfoInputs.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.AssemblyInfo.cs
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/ref/Ordering.Domain.dll
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Domain/obj/Debug/net5.0/Ordering.Domain.pdb
