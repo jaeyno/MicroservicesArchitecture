@@ -15,3 +15,6 @@
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/ref/Ordering.Infrastructure.dll
 /Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.pdb
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Infrastructure.runtimeconfig.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/bin/Debug/net5.0/Ordering.Infrastructure.runtimeconfig.dev.json
+/Users/jaeno/Desktop/MicroservicesArchitecture/src/Services/Ordering/Ordering.Infrastructure/obj/Debug/net5.0/Ordering.Infrastructure.genruntimeconfig.cache
